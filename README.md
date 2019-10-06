@@ -1,7 +1,7 @@
 # NLP_SentimentReviewer
 A model trained with Keras and built using NLP Techniques to predict any sentiment in context with affirmation and negation.
 
-Dataset is taken from different sources and combined into a single folder: ### txt_sentoken
+Dataset is taken from different sources and combined into a single folder: 'txt_sentoken'
 
 ## IMDB Movie Reviews Dataset
    Refer Kaggle:  https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset
